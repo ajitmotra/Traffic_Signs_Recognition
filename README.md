@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Self-Driving Car Engineer Nanodegree
 # Deep Learning
 ## Project: Build a Traffic Sign Recognition Program
@@ -32,3 +33,6 @@ jupyter notebook Traffic_Signs_Recognition.ipynb
 ```
 3. Follow the instructions in the `Traffic_Signs_Recognition.ipynb` notebook.
 
+=======
+# Traffic_Signs_Recognition
+>>>>>>> 86f51aabbf361a426ef77c4be07f10d3fbf3ba94
